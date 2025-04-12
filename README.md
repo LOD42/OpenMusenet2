@@ -9,8 +9,8 @@ https://github.com/user-attachments/assets/47bff3d5-7b34-40a4-b141-8cedcb654072
 
 3 Hours of music from scratch: https://www.youtube.com/watch?v=p6JX07dAwFw&t=6815s
 
-# Interactive notebook:
-https://colab.research.google.com/drive/1R3SpV9sajWafITdToC2NOzTw8tkZYWZl?usp=sharing
+# Interactive notebook(Forked to fix an error with 'load_in_16_bit=False'):
+[https://colab.research.google.com/drive/1R3SpV9sajWafITdToC2NOzTw8tkZYWZl?usp=sharing](https://colab.research.google.com/drive/1PATj19gOnDKyeLngCh1mruRMf_WFJldK?usp=sharing)
 
 ## Library (WIP)
 In OpenMusenet3 folder, there is a work in progress library in the works. If you want to use it right now, download it and navigate to examples and you can run the scripts. A notebook will be released eventually
